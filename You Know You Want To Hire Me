@@ -1,0 +1,41 @@
+   </head>
+        <body>
+            
+            <br>
+            <form action="http://example.com/join.php">
+                
+                    &nbsp;&nbsp;&nbsp;
+                    <label for="Company Name"> Company Name:</label>
+                    <input type="text" name="Company Name" required="required" /><br><br>
+                    
+                
+                    &nbsp;&nbsp;&nbsp;
+                    <label for="Job Position">Job Position:</label>
+                    <input type="text" name="position" required="required" /><br><br>
+
+                
+                    &nbsp;&nbsp;&nbsp;
+                    <label for="Location">Location:</label>
+                    <input type="text" name="Location" required="required" /><br><br>
+                
+                
+                    &nbsp;&nbsp;&nbsp;
+                    <label for="Vacation Days Granted">Vacation Days Granted:</label>
+                    <input type="number" min="0" name="Vacation Days Granted" 
+                    required="required" /><br><br>
+                
+                
+                    &nbsp;&nbsp;&nbsp;
+                    <label for="Vacation Pay">Vacation Pay:</label>
+                    <input type="number" min="0.00" step="0.05" name="Vacation Days Granted" required="required" /><br><br>
+                
+                    &nbsp;&nbsp;&nbsp;
+                    <label for="Password">Password:</label>
+                    <input type="password" name="password" size="10" maxlength="30"
+                    required="required" /><br><br>
+                    
+                    <input type="submit" value="Submit" />
+
+            </form>
+        </body>
+</html>
