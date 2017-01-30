@@ -1,0 +1,39 @@
+</head>
+    <body>
+      <h1>My Favorite Things</h1>
+      <h2> by Corey Taylor </h2>
+        
+            <a href="#Movies"> Movies</a><br />
+            <a href="#Foods"> Foods</a><br />
+            <a href="#Shows"> Shows</a><br />
+            <a href="#Music"> Music</a><br />
+
+            <h3 id="Movies">Favorite Movies:</h3>
+            <ol>
+                <li>Underworld</li>
+                <li>Seven</li>
+                <li>Takers</li>
+            </ol>
+            
+            <h3 id="Foods">Favorite Foods:</h3>
+            <ol>
+             <li>Fried Chicken</li>
+             <li>Sushi - Unagi</li>
+             <li>French Fries</li>
+            </ol>
+            
+ <h3 id="Shows">Favorite Shows:</h3>
+         <ol>
+             <li>Power</li>
+             <li>Game of Thrones</li>
+             <li>Family Guy </li>
+            </ol>
+            
+            <h3 id="Music">Favorite Music:</h3>
+            <ol>
+             <li>RnB</li>
+             <li>Hip-Hop</li>
+             <li>Reggae</li>
+            </ol>
+    </body>
+</html>
