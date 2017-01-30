@@ -1,0 +1,45 @@
+   </head>
+    
+    <body>
+    
+        <table>
+            <tr>
+                <th>Monday <br></th>
+                
+                <th><br>Web Authoring Tools - INFO 387<br>Alton J. Henley<br>3:40 PM - 5:00 PM<br> 3 Credits<br><br></th>
+                
+            </tr>
+            
+            <tr>
+                <th>Tuesday <br></th>
+                <th><br>Elementary Judo - HHPL 014<br>Chad A. Malone<br>9:10 AM - 10:00 AM<br>1 credit<br><br></th>
+                <th><br>Intro to Philosophy - PHIL 055<br>Yolanda Y. Wilson<br>11:10 AM - 12:30 PM<br>3 Credits<br><br></th>
+              <th><br>Accounting Principles II - ACCT 202<br>Adrian L. Mayse<br>12:40 PM - 2:00 PM<br>3 Credits<br><br></th>
+              <th><br>Intro to Psychology - PSYC 050<br>Oritsegbubemi Ayu<br>2:10 PM - 3:30 PM<br>3 Credits<br><br></th>
+              <th><br>Principles of Economics II - ECON 002<br>Lancelot L. Loncke<br>3:40 PM - 5:00 PM<br>3 credits<br><br></th>
+            </tr>
+             
+            <tr>
+                <th>Wednesday <br></th>
+          
+                <th><br>Web Authoring Tools - INFO 387<br>Alton J. Henley<br>(3:40pm - 5:00pm)<br>3 credits<br><br></th>
+                
+            </tr>
+            
+            <tr>
+                <th>Thursday <br></th>
+                <th><br>Elementary Judo - HHPL 014<br>Chad A. Malone<br>9:10 AM - 10:00 AM<br>1 credit<br><br></th>
+                <th><br>Intro to Philosophy - PHIL 055<br>Yolanda Y. Wilson<br>11:10 AM - 12:30 PM<br>3 Credits<br><br></th>
+              <th><br>Accounting Principles II - ACCT 202<br>Adrian L. Mayse<br>12:40 PM - 2:00 PM<br>3 Credits<br><br></th>
+              <th><br>Intro to Psychology - PSYC 050<br>Oritsegbubemi Ayu<br>2:10 PM - 3:30 PM<br>3 Credits<br><br></th>
+              <th><br>Principles of Economics II - ECON 002<br>Lancelot L. Loncke<br>3:40 PM - 5:00 PM<br>3 Credits<br><br></th>
+            </tr>
+            
+            <tr>
+                <th>Friday <br></th>
+                <th><br>Accounting Principles II Lab- ACCT 202<br>Adrian L. Mayse<br>10: 10 AM - 12:00 PM<br>3 Credits<br><br></th>
+            </tr>
+            
+        </table>
+    </body>
+</html>
