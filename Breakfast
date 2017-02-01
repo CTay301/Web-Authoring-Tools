@@ -1,15 +1,19 @@
 <html>
+<head>
+<title>Breakfast</title>
+</head>
   <h1> Bacon, Egg, and Cheese Sandwich </h1>
    <h2> By Corey Taylor </h2>
   <p> I used to make this a lot because, in high school, I worked at Waffle House. Prior to that, I used to never eat breakfast </p>
   
   <h3> Ingredients </h3>
-  <p>Bacon 
-    <br/> Cheese
-    <br/> Egg
-    <br/> Bread
-    <br/> Butter
-  </p>
+  <ul>
+    <li>Bacon</li> 
+    <li> Cheese</li> 
+    <li> Egg</li> 
+    <li> Bread</li> 
+    <li> Butter</li> 
+  </ul>
   
   <h3> What to do </h3>
   <ol>
